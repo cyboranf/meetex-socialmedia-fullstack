@@ -1,0 +1,6 @@
+[submodule "meetex-socialmedia-interface"]
+	path = meetex-socialmedia-interface
+	url = https://github.com/cyboranf/meetex-socialmedia-interface.git
+[submodule "meetex-socialmedia-restapi"]
+	path = meetex-socialmedia-restapi
+	url = https://github.com/cyboranf/meetex-socialmedia-restapi.git
